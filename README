@@ -1,0 +1,3 @@
+This is a simple Python text editor. It uses the WxPython library to draw the GUI. It
+doesn't serve much of a practical application, so I'd recommend looking at this as an example
+only.
